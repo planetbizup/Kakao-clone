@@ -11,6 +11,17 @@
   align-items: center;
   font-size: 14px;
 }
+
+.friends__section-row .with-tagline{
+  justify-content:space-between;
+}
+.friends__section-tagline{
+  font-size: 12px;
+  background:#f0f0f0;
+  padding: 10px 10px ;
+  border-radius: 5px;
+  color: #939393;
+}
 .friends__section-row img{
   width: 40px;
   border-radius: 50%;
@@ -25,17 +36,4 @@
   display: flex;
   align-items: center;
 }
-.friends__section-row .with-tagline{
-  justify-content:space-between;
-}
-.friends__section-tagline{
-  font-size: 12px;
-  background:#f0f0f0;
-  padding: 10px 10px ;
-  border-radius: 5px;
-  color: #939393;
-}
 
-.friends__section-tagline
-
-.friends__section-tagline
